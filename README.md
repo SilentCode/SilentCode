@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SilentCode</h1>
-<h3 align="center">NEW CORNER</h3>
+<h3 align="center">Silent CORNER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SilentCode&label=Profile%20views&color=0e75b6&style=flat" alt="SilentCode" /> </p>
 
